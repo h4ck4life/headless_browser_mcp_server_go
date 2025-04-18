@@ -1,0 +1,2 @@
+- go mod tidy
+- go build -o headless-browser-mcp-server.exe
